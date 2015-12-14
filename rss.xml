@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[oliverbray]]></title>
+        <description><![CDATA[oliverbray]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 21:39:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test 1]]></title>
+            <description><![CDATA[<article><h1>test 1</h1><p>the animal</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a2b79c1f69146f51f2090d0b39fb4cb0741d999.jpg"></article>]]></description>
+            <link>undefinedtest-1/index.html</link>
+            <guid isPermaLink="false">38edbcfc-da20-40d5-8f8e-56006a27aaee</guid>
+            <pubDate>Mon, 14 Dec 2015 21:39:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
