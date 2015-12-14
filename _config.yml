@@ -1,0 +1,28 @@
+name: oliverbray
+favicon: null
+layout_spectrum: 0.3376881598960608
+typography_spectrum: 0.6403470789082348
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9371198217850178
+  lightness: 0.14543942618183792
+  saturation: 0.7314399695023894
+  rhythmicContrast: 0.46191826881840825
+purpose: []
