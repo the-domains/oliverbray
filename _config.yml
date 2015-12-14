@@ -1,6 +1,6 @@
 name: oliverbray
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.26459
 title: Oliver Bray
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#feccff'
-    - '#000000'
-    - '#808080'
-    - '#4e504e'
+    - '#b8a88e'
+    - '#633818'
+    - '#a88f67'
+    - '#590e12'
+    - '#846838'
   brandStrength: 0.25
-  lightness: 0.625
-  saturation: 0.3125
-  rhythmicContrast: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
