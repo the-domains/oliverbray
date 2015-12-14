@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[oliverbray]]></title>
         <description><![CDATA[oliverbray]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oliverbray/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 21:39:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 21:39:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oliverbray/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.oliverbray.com/Oliver_Bray/Home_files/IMG_7588.jpg">]]></description>
+            <link>https://thegrid.ai/oliverbray/of-this-room-brand-new-performance-every-time-he-enters/index.html</link>
+            <guid isPermaLink="false">d1042075-b81b-4acb-a670-5024c0cafff5</guid>
+            <pubDate>Mon, 14 Dec 2015 21:39:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[test 1]]></title>
-            <description><![CDATA[<article><h1>test 1</h1><p>the animal</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a2b79c1f69146f51f2090d0b39fb4cb0741d999.jpg"></article>]]></description>
-            <link>undefinedtest-1/index.html</link>
+            <description><![CDATA[<article><h1>test 1</h1><p>the animal</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0306160017e5761ad9bc9d81c2f622af25992572.jpg"></article>]]></description>
+            <link>https://thegrid.ai/oliverbray/test-1/index.html</link>
             <guid isPermaLink="false">38edbcfc-da20-40d5-8f8e-56006a27aaee</guid>
             <pubDate>Mon, 14 Dec 2015 21:39:20 GMT</pubDate>
         </item>
