@@ -1,6 +1,6 @@
 name: oliverbray
 favicon: null
-layout_spectrum: 0.69325
+layout_spectrum: 0.24778
 typography_spectrum: 0.26459
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#f9faf4'
     - '#9e9d89'
     - '#d3d5c7'
-  brandStrength: 0.9371198217850178
-  lightness: 0.14543942618183792
-  saturation: 0.1875
-  rhythmicContrast: 1
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
