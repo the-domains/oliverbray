@@ -1,11 +1,11 @@
 ---
 description: 'Of This Room - brand new performance, every time.  He enters the space and reads it. He reads you. Then he makes a performance happen.  This performance will ne'
 author: []
-datePublished: '2015-12-14T21:39:38.700Z'
+datePublished: '2015-12-14T21:57:45.727Z'
 publisher:
   domain: www.oliverbray.com
   name: oliverbray.com
-dateModified: '2015-12-14T21:32:44.908Z'
+dateModified: '2015-12-14T21:51:37.806Z'
 title: ''
 sourcePath: _posts/2015-12-14-of-this-room-brand-new-performance-every-time-he-enters.md
 published: true
