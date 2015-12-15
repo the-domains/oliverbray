@@ -1,18 +1,24 @@
 ---
 description: 'Of This Room - brand new performance, every time.  He enters the space and reads it. He reads you. Then he makes a performance happen.  This performance will ne'
+isBasedOnUrl: 'http://www.oliverbray.com/Oliver_Bray/Home.html'
 author: []
-datePublished: '2015-12-14T21:57:45.727Z'
+datePublished: '2015-12-15T21:21:02.321Z'
 publisher:
-  domain: www.oliverbray.com
   name: oliverbray.com
-dateModified: '2015-12-14T21:51:37.806Z'
+  domain: www.oliverbray.com
+  url: null
+  favicon: null
+dateModified: '2015-12-14T22:28:44.827Z'
 title: ''
 sourcePath: _posts/2015-12-14-of-this-room-brand-new-performance-every-time-he-enters.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: of-this-room-brand-new-performance-every-time-he-enters/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
