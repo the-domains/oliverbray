@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Academic - Oliver Bray is a Principal Lecturer at Leeds Beckett University where he is the Academic Leader of the Performing Arts department.\_ He is also a Seni"
-datePublished: '2015-12-16T14:55:20.584Z'
-dateModified: '2015-12-16T14:55:18.943Z'
+datePublished: '2015-12-16T15:09:34.331Z'
+dateModified: '2015-12-16T15:09:32.312Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-academic-oliver-bray-is-a-principal-lecturer-at-leeds-beck.md
