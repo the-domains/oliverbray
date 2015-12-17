@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.oliverbray.com/Oliver_Bray/Home.html'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Brewing Performance - an exciting new collaboration between Leeds Beckett Performing Arts and The Tetley, Leeds. Between January and June 2015, performance make'
-datePublished: '2015-12-15T21:45:45.222Z'
-dateModified: '2015-12-15T21:45:25.832Z'
+datePublished: '2015-12-17T12:42:25.843Z'
+dateModified: '2015-12-17T12:42:20.393Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-brewing-performance-an-exciting-new-collaboration-between.md
