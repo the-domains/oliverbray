@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.oliverbray.com/Oliver_Bray/Home.html'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Georges Perec’s The Machine - Third Angel.     Oliver Bray performs in Perec’s innovative and mischievous 1968 radio play, the first time this remarkable piece '
-datePublished: '2015-12-15T21:28:08.770Z'
-dateModified: '2015-12-15T21:28:05.529Z'
+datePublished: '2015-12-17T12:41:46.435Z'
+dateModified: '2015-12-17T12:41:43.880Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-georges-perecs-the-machine-third-angel-oliver-bray-p.md
