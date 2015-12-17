@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.oliverbray.com/Oliver_Bray/Home.html'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The Elision of Scaff’ - performance work. Scaff' struggles to come to terms with his life, he is preoccupied, distracted and perpetually in a state of astonishm"
-datePublished: '2015-12-15T21:31:57.277Z'
-dateModified: '2015-12-15T21:31:45.312Z'
+datePublished: '2015-12-17T12:42:07.622Z'
+dateModified: '2015-12-17T12:42:05.297Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-the-elision-of-scaff-performance-work-scaff-struggles-t.md
