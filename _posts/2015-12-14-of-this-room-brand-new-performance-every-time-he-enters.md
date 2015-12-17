@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.oliverbray.com/Oliver_Bray/Home.html'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Of This Room - brand new performance, every time.  He enters the space and reads it. He reads you. Then he makes a performance happen.  This performance will ne'
-datePublished: '2015-12-16T15:09:43.063Z'
-dateModified: '2015-12-16T14:55:29.459Z'
+datePublished: '2015-12-17T12:38:58.116Z'
+dateModified: '2015-12-17T12:38:54.556Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-of-this-room-brand-new-performance-every-time-he-enters.md
