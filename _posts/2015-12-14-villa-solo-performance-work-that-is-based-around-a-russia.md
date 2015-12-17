@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.oliverbray.com/Oliver_Bray/Home.html'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Villa - solo performance work that\_ is based around a Russian family’s tragic story of loss.     Villa is as much about idiotic British naivety as it is pseudo-"
-datePublished: '2015-12-15T21:16:29.659Z'
-dateModified: '2015-12-15T21:16:24.587Z'
+datePublished: '2015-12-17T12:41:31.284Z'
+dateModified: '2015-12-17T12:41:26.469Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-villa-solo-performance-work-that-is-based-around-a-russia.md
