@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.oliverbray.com/Oliver_Bray/Home.html'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'The Animal Was Upon Him - performance work.  This performance is a ridiculous conversation, a wry two-hander of nonsensical, pseudo-philosophical badinage and s'
-datePublished: '2015-12-15T21:31:01.564Z'
-dateModified: '2015-12-15T21:30:50.339Z'
+datePublished: '2015-12-17T12:41:58.925Z'
+dateModified: '2015-12-17T12:41:56.520Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-the-animal-was-upon-him-performance-work-this-performanc.md
