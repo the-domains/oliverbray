@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Brewing Performance - an exciting new collaboration between Leeds Beckett Performing Arts and The Tetley, Leeds. Between January and June 2015, performance make'
-datePublished: '2015-12-23T17:53:08.459Z'
-dateModified: '2015-12-23T17:53:04.062Z'
+datePublished: '2016-02-01T21:10:07.103Z'
+dateModified: '2016-01-22T12:20:08.939Z'
 author: []
 title: ''
 sourcePath: _posts/2015-12-14-brewing-performance-an-exciting-new-collaboration-between.md
