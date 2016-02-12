@@ -1,6 +1,6 @@
-name: oliverbray
+name: Oliver Bray
 favicon: null
-layout_spectrum: 0.76037
+layout_spectrum: 1
 typography_spectrum: 0.54685
 title: Oliver Bray
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff1724'
     - '#b97851'
     - '#412a1c'
-  brandStrength: 0.625
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.875
+  rhythmicContrast: 0
 purpose: []
